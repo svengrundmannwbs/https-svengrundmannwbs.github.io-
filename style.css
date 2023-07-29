@@ -39,6 +39,7 @@ img {
 body,
 html {
   height: 100%;
+  white-space: nowrap;
 }
 
 .bgimg {
